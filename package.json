@@ -1,0 +1,39 @@
+{
+  "name": "@globalntt/rn-simple-picker",
+  "version": "0.1.0",
+  "description": "A drop down picker for IOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globalntt/rn-simple-picker.git"
+  },
+  "author": "syaifulginanjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globalntt/rn-simple-picker/issues"
+  },
+  "homepage": "https://github.com/globalntt/rn-simple-picker#readme",
+  "dependencies": {
+    "@globalntt/rn-text-button": "^0.1.0",
+    "@globalntt/rn-text-field": "^0.1.0",
+    "react-native-status-bar-height": "^2.3.1"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0",
+    "metro-react-native-babel-preset": "^0.54.1"
+  }
+}
